@@ -1,8 +1,8 @@
-# FUNCTIONAL PROGRAMMING WITH JAVASCRIPT
+# 👨‍💻 FUNCTIONAL PROGRAMMING WITH JAVASCRIPT
 
-### This project is the result of course in Platzi.
+### This project is the result of course in Platzi. 📚
 
-We will learn the fundamentals of the functional programming paradigm with javascript. Keeping in mind that the language is multi-paradigm and allows us to choose as we like.
+👨‍🔧 We will learn the fundamentals of the functional programming paradigm with javascript. Keeping in mind that the language is multi-paradigm and allows us to choose as we like.
 
 **_Key points_**:
 
