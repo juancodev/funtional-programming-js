@@ -1,0 +1,39 @@
+@import './navbar.css';
+@import './footer.css';
+
+:root {
+  --color-text: #EF4444;
+  --black: #202020;
+  --white: #ffffff;
+}
+
+body{
+
+  background: #005AA7;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #FFFDE4, #005AA7);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #FFFDE4, #005AA7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: 'Alexandria';
+}
+
+.container {
+  height: 100vh;
+  align-items: center;
+  overflow-y: auto;
+}
+
+.card-header {
+  padding: 8px;
+  background-color: #ff9f1c;
+}
+
+.card-body{
+  padding: 10px;
+}
+
+.card-footer {
+  background-color: #ff9f1c;
+}
+
+.table>:not(caption)>*>*{
+  padding: 5px 2px !important;
+}
